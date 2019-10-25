@@ -11,6 +11,8 @@ https://www.liebertpub.com/doi/full/10.1089/soro.2018.0080
 The following kinematic model is based on Compliant Modular Mesh worm Robot with Steering
 https://iopscience.iop.org/article/10.1088/1748-3190/aaa342/meta
 
-Main code to run non periodic waveform for tunring without slip in peristaltic locomotion
+Main code to run non periodic waveform for turning without slip in peristaltic locomotion.
+
+Run Demo_to_angle_custombounds.m.
 
 Code produces waveform required to reach certain end position in order to turn without slip using kinematic constraints
